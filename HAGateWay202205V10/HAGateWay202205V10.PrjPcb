@@ -123,23 +123,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QSRYXUBH
 
 [Document6]
-DocumentPath=05. eMMC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=12
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZVFMAKRB
-
-[Document7]
 DocumentPath=11-MT7688AN RF Front End.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLPSEIMW
 
-[Document8]
+[Document7]
 DocumentPath=12-MT7688AN DDR2 I_F-B.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MEHJNWQL
 
-[Document9]
+[Document8]
 DocumentPath=13-MT7688AN Peripheral-C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYLXRYQP
 
-[Document10]
+[Document9]
 DocumentPath=14-MT7688AN USB-PCIe.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXNOVCMN
 
-[Document11]
+[Document10]
 DocumentPath=15-MT7688AN Ethernet-E.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CEGONDXB
 
-[Document12]
+[Document11]
 DocumentPath=16-MT7688AN Power-F.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHEGFUKL
 
-[Document13]
+[Document12]
 DocumentPath=LinkIt Smart 7688 Duo.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FIOBGROB
 
-[Document14]
+[Document13]
 DocumentPath=MT7688AN.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=HAGW202205V10.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,41 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDYBPFTT
 
-[Document16]
-DocumentPath=..\..\..\03. Altium Library\SyTungNguyen.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JAYEMWCL
-
-[Document17]
-DocumentPath=..\..\..\03. Altium Library\SyTungNguyen.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XICVDGUK
-
-[Document18]
+[Document15]
 DocumentPath=13-MT7688AN Peripheral-C.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,8 +292,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
-DocumentPath=03. ZIGBEE.Harness
+[Document16]
+DocumentPath=05. eMMC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZVFMAKRB
+
+[Document17]
+DocumentPath=..\..\..\..\03. Altium Library\SyTungNguyen.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -358,7 +324,28 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JAYEMWCL
+
+[Document18]
+DocumentPath=..\..\..\..\03. Altium Library\SyTungNguyen.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XICVDGUK
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for HAGateWay202205V10\Design Rule Check - HAGW202205V10.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
