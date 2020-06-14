@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for HAGateWay202205V10
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -399,20 +399,20 @@ DocumentPath=Project Outputs for HAGateWay202205V10\Design Rule Check - HAGW2022
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Version
-Value=1.0
-
-[Parameter2]
 Name=CheckPerson
 Value=N.S.T
 
-[Parameter3]
+[Parameter2]
 Name=DesignPerson
 Value=N.S.T
 
-[Parameter4]
+[Parameter3]
 Name=name
 Value=Smart Thing
+
+[Parameter4]
+Name=Version
+Value=1.0
 
 [Configuration1]
 Name=Sources
@@ -461,7 +461,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for HAGateWay202205V10
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
